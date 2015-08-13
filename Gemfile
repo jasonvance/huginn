@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Ruby 2.0 is the minimum requirement
-ruby ['2.0.0', RUBY_VERSION].max
+ruby ['1.9.3', RUBY_VERSION].max
 
 # Optional libraries.  To conserve RAM, comment out any that you don't need,
 # then run `bundle` and commit the updated Gemfile and Gemfile.lock.
